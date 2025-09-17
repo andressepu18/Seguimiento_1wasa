@@ -9,7 +9,7 @@ Al enviar varias imágenes a la vez desde la galería, es difícil reorganizar e
 
 Solución implementada
 
-Una interfaz similar a WhatsApp con funcionalidad de arrastrar y soltar (drag & drop) para reordenar imágenes antes de enviarlas.
+Una interfaz para WhatsApp con funcionalidad de arrastrar y soltar (drag & drop) para reordenar imágenes antes de enviarlas.
 
 Características principales
 
